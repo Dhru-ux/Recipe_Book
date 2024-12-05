@@ -1,0 +1,46 @@
+.jumbotron{
+    background-color: #ff3f34;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+
+
+}
+.brand-icon{
+    font-size:100px;
+    padding-right: 15px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 700,
+  'GRAD' 200,
+  'opsz' 48
+}
+
+.form-control{
+    /* border:1px solid #ff3f34; */
+    height: 50px;
+    font-weight: bold;
+    color: black;
+}
+@media (min-width: 1500px){
+    
+}
+.container{
+    max-width:1400px
+}
+
+.btn{
+    display:flex;
+    justify-content: center;
+}
+
+.card-columns{
+    column-gap: 3rem;;
+}
+
+.card-columns .card {
+    margin-bottom: 1.5rem;
+}
